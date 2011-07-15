@@ -3,3 +3,5 @@ Jul 15, 2011
 LLDIC Current Activities:
 
 Coding for the EPICS-device-support of USBDUX on the Dreamplug.
+USBDUX A/D, D/A, Bit I/O will be EPICS devices through the Comedi driver as a result.
+
