@@ -9,17 +9,17 @@ LLDIC is a project for fun; it is the kind of fun for one who enjoys learning by
 
 Here we try to create a "Controller". It has sensors and will do something to its environment. Hopefully it will enhance the reach of its "Intelligent" users.
 
-"Low-cost" because we want to have the most fun for the buck. So less for the same result is more.
+We target "Low-cost" because we want to have the most fun for the buck. So less for the same result is more.
 
 LLDIC is going to run 24/7 in many situations. "Low-power" is important. We like green.
 
 *Approach
 
-Before the CERN Open Hardware License results in hardware that we can use in LLDIC, we are going to buy low-power, low-cost hardware. To start, we are going to use the Dreamplug from Globalscale with USB-DUX from linux-usb-daq.co.uk.
+To start, we are going to use the Dreamplug from Globalscale with USB-DUX from linux-usb-daq.co.uk.
 
 Software will all be from the web or DIY. Open source, open standard. Free.
 
-We will get comedi (with USB-DUX driver) and EPICS (aps.anl.gov/epics) running on the Dreamplug, USB-DUX combination. Since Ubuntu for armel is running on the Dreamplug, these first steps will already provide many possibilities for creative DIY'ers.
+We will get comedi (with USB-DUX driver) and EPICS (aps.anl.gov/epics) running on the Dreamplug, USB-DUX combination. Since Ubuntu for armel is running on the Dreamplug, these first steps will already provide many possibilities. 
 
 The total startup cost is far less than a thousand US dollar.
 
