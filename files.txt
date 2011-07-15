@@ -1,0 +1,27 @@
+Jul 15, 2011
+
+LLDIC files:
+
+README
+ - Goal and direction of the LLDIC project.
+
+GOINGON
+ - Current activities.
+
+files.txt
+ - Simple descriptions of the files in the repository.
+
+comedi_dreamplug_armel.tar.gz       
+ - A working copy of comedi on the Dreamplug. It contains the driver
+   usbdux and an installable Python binding.
+
+comedi_dreamplug_armel.tar.gz.md5sum
+ - MD5 checksum.
+
+EPICS_base-3.14.12.1_dreamplug_armel.tar.gz  
+ - A working copy of the latest EPICS-base on the dreamplug.
+   After expanding, the bin and lib linux-armel directories
+   may be linked into the system directories in the PATH. 
+
+EPICS_base-3.14.12.1_dreamplug_armel.tar.gz.md5sum
+ - MD5 checksum.
