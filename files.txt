@@ -3,7 +3,7 @@ Jul 15, 2011
 LLDIC files:
 
 README
- - Goal and direction of the LLDIC project.
+ - Goals and directions of the LLDIC project.
 
 GOINGON
  - Current activities.
