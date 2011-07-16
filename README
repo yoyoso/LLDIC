@@ -3,6 +3,7 @@ Jul 12, 2011
 README file for LLDIC
 (Low-power Low-cost Do-it-yourself Intelligent Controller)
 
+
 *Goal
 
 LLDIC is a project for fun; it is the kind of fun for one who enjoys learning by doing.
@@ -14,9 +15,10 @@ So less for the same result is more.
 
 LLDIC is going to run 24/7 in many situations. "Low-power" is important. We like green.
 
+
 *Approach
 
-To start, we are going to use the Dreamplug from Globalscale with USB-DUX from 
+To start, we are going to use the Dreamplug from Globalscale with the USB-DUX from 
 linux-usb-daq.co.uk.
 
 Software will all be from the web or DIY. Open source, open standard. Free.
@@ -27,7 +29,7 @@ these first steps will already provide many possibilities.
 
 The total startup cost is far less than a thousand US dollars.
 
-The USBDUX DAQ multifunction board and the USB-SSD-drive need no additional power source 
-other then the Dreamplug USB-port. 
+The USB-DUX DAQ multifunction board and the USB-SSD-drive need no additional power source 
+other than the Dreamplug USB-port. 
 
 yoyoso
