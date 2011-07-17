@@ -8,7 +8,8 @@ README file for LLDIC
 
 LLDIC is a project for fun; it is the kind of fun for one who enjoys learning by doing.
 
-Here we try to create a "Controller". It has sensors and will do something to its environment. Hopefully it will enhance the reach of its "Intelligent" users.
+Here we try to create a "Controller". It has sensors and will do something to its 
+environment. Hopefully it will enhance the reach of its "Intelligent" users.
 
 We target "Low-cost" because we want to have the most fun for the buck. 
 So less for the same result is more.
@@ -24,12 +25,24 @@ linux-usb-daq.co.uk.
 Software will all be from the web or DIY. Open source, open standard. Free.
 
 We will get comedi (with USB-DUX driver) and EPICS (aps.anl.gov/epics) running on 
-the Dreamplug, USB-DUX combination. Since Ubuntu for armel is running on the Dreamplug, 
-these first steps will already provide many possibilities. 
+the Dreamplug, USB-DUX combination. Since Ubuntu for armel is running on the Dreamplug,
+these first steps will already open up many possibilities. 
 
-The total startup cost is far less than a thousand US dollars.
+The total startup cost is far less than a thousand US dollars. "Low-cost" now is
+$700 if we count the cables and USB-SSD. The display connected to it during development
+need not be part of the LLDIC in operations. A part-time monitor through the gigabit-
+ethernet port may be sufficient.  
 
-The USB-DUX DAQ multifunction board and the USB-SSD-drive need no additional power source 
-other than the Dreamplug USB-port. 
+The USB-DUX DAQ multifunction board and the USB-SSD need no additional power 
+source other than the Dreamplug's USB-port. So "Low-power" for this setup is about 
+five watts.
+
+We start with a system capable of full Linux (Debian or Ubuntu) development so that
+LLDIC's "Intelligence" will grow with the advances in robotics and AGI.
+
+The hardware and software of LLDIC shall evolve as better (lower power, lower cost,
+less work for DIYers, more general intelligence, more control domains and resolution)
+open-technologies become available. 
+
 
 yoyoso
